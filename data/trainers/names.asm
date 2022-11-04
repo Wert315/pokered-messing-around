@@ -28,7 +28,7 @@ TrainerNames::
 	db "CHIEF@"
 	db "SCIENTIST@"
 	db "GIOVANNI@"
-	db "ROCKET@"
+	db "BIG KEITH"
 	db "COOLTRAINER♂@"
 	db "COOLTRAINER♀@"
 	db "BRUNO@"
