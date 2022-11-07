@@ -62,6 +62,8 @@ TangelaPicBack::      INCBIN "gfx/pokemon/back/tangelab.pic"
 
 SECTION "Pics 2", ROMX
 
+DampPicFront::        INCBIN "gfx/pokemon/front/damp.pic"
+DampPicBack::         INCBIN "gfx/pokemon/back/dampb.pic"
 GrowlithePicFront::   INCBIN "gfx/pokemon/front/growlithe.pic"
 GrowlithePicBack::    INCBIN "gfx/pokemon/back/growlitheb.pic"
 OnixPicFront::        INCBIN "gfx/pokemon/front/onix.pic"
@@ -124,12 +126,12 @@ PoliwagPicFront::     INCBIN "gfx/pokemon/front/poliwag.pic"
 PoliwagPicBack::      INCBIN "gfx/pokemon/back/poliwagb.pic"
 JynxPicFront::        INCBIN "gfx/pokemon/front/jynx.pic"
 JynxPicBack::         INCBIN "gfx/pokemon/back/jynxb.pic"
-MoltresPicFront::     INCBIN "gfx/pokemon/front/moltres.pic"
-MoltresPicBack::      INCBIN "gfx/pokemon/back/moltresb.pic"
 
 
 SECTION "Pics 3", ROMX
 
+MoltresPicFront::     INCBIN "gfx/pokemon/front/moltres.pic"
+MoltresPicBack::      INCBIN "gfx/pokemon/back/moltresb.pic"
 ArticunoPicFront::    INCBIN "gfx/pokemon/front/articuno.pic"
 ArticunoPicBack::     INCBIN "gfx/pokemon/back/articunob.pic"
 ZapdosPicFront::      INCBIN "gfx/pokemon/front/zapdos.pic"
