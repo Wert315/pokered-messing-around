@@ -297,6 +297,16 @@ _TangelaDexEntry::
 	next "weed. Its vines"
 	next "shake as it walks"
 	dex
+	
+_DampDexEntry::
+	text "This small bird"
+	next "#MON keeps its"
+	next "head in a bucket"
+	
+	page "it likes water"
+	next "so much. If it"
+	next "loses it is sad."
+	dex
 
 _GrowlitheDexEntry::
 	text "Very protective"
